@@ -4,13 +4,14 @@
     {
         static void Main(string[] args)
         {
-            var match = new Match();
             Console.Write("Gyldig tips: \n" +
                           " - H, U, B\n" + 
                           " - halvgardering: HU, HB, UB\n" + 
                           " - helgardering: HUB\n" + 
                           "Hva har du tippet for denne kampen? ");
-            match.SetBet(Console.ReadLine());
+            var bet = Console.ReadLine();
+            var match = new Match(bet);
+
             while (match.MatchIsRunning)
             {
                 Console.Write("Kommandoer: \n" + 
@@ -19,7 +20,7 @@
                               " - X = kampen er ferdig\n" + 
                               "Angi kommando: ");
                 var command = Console.ReadLine();
-                match.MatchIsRunning = command != "X";
+                if (command == "X") match.Stop();
                 match.AddGoal(command);
                 Console.WriteLine($"Stillingen er {match.HomeGoals}-{match.AwayGoals}.");
             }

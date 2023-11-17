@@ -6,19 +6,31 @@ namespace KampTipping
     {
         public int HomeGoals { get; private set; }
         public int AwayGoals { get; private set; }
-        public bool MatchIsRunning = true;
+        public bool MatchIsRunning { get; private set; } = true;
 
-        private string _bet = "";
-       
-        public void SetBet(string bet)
+        private readonly string _bet;
+
+        public Match(string bet)
         {
             _bet = bet;
         }
 
+        public void Stop()
+        {
+            MatchIsRunning = false;
+        }
+
         public void AddGoal(string side)
         {
-            if (side == "H") HomeGoals++;
-            else if (side == "B") AwayGoals++;
+            switch (side)
+            {
+                case "H":
+                    HomeGoals++;
+                    break;
+                case "B":
+                    AwayGoals++;
+                    break;
+            }
         }
 
         public string GetResult()
