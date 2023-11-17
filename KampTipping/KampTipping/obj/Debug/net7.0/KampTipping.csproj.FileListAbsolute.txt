@@ -1,0 +1,14 @@
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\bin\Debug\net7.0\KampTipping.exe
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\bin\Debug\net7.0\KampTipping.deps.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\bin\Debug\net7.0\KampTipping.runtimeconfig.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\bin\Debug\net7.0\KampTipping.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\bin\Debug\net7.0\KampTipping.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\KampTipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\KampTipping.AssemblyInfoInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\KampTipping.AssemblyInfo.cs
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\KampTipping.csproj.CoreCompileInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\KampTipping.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\refint\KampTipping.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\KampTipping.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\KampTipping.genruntimeconfig.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\KampTipping\KampTipping\obj\Debug\net7.0\ref\KampTipping.dll
