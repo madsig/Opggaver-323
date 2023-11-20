@@ -22,7 +22,7 @@ namespace KampTipping
 
         public void AddGoal(string side)
         {
-            switch (side)
+            switch (side) //  >:)
             {
                 case "H":
                     HomeGoals++;

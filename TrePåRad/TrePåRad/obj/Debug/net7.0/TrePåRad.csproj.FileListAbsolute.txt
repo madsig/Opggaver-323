@@ -1,0 +1,14 @@
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\TrePåRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\TrePåRad.AssemblyInfoInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\TrePåRad.AssemblyInfo.cs
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\TrePåRad.csproj.CoreCompileInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\bin\Debug\net7.0\TrePåRad.exe
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\bin\Debug\net7.0\TrePåRad.deps.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\bin\Debug\net7.0\TrePåRad.runtimeconfig.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\bin\Debug\net7.0\TrePåRad.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\bin\Debug\net7.0\TrePåRad.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\TrePåRad.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\refint\TrePåRad.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\TrePåRad.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\TrePåRad.genruntimeconfig.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.17 - Opggaver 323\TrePåRad\TrePåRad\obj\Debug\net7.0\ref\TrePåRad.dll
